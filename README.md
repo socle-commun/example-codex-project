@@ -1,10 +1,12 @@
-# Example Codex Project
+# Template Codex Brutal
 
-This repository demonstrates a minimal setup for using Codex.
+Ce dépôt sert de champ d'entraînement pour un agent IA autonome.
+Clones-le, lance l'agent, puis laisse-le évoluer.
 
-- **AGENTS.md** contains rules and guidelines for the assistant.
-- **log.md** tracks recent actions (max 30 lines).
-- **docs/** stores persistent documentation.
-- **src/** holds source code modules.
-- **data/** holds datasets or example input.
-- **tests/** keeps test cases or validation scripts.
+## Mode opératoire
+- `AGENTS.md` : la loi que l'agent suit à la lettre.
+- `log.md` : trace condensée des actions, dernière ligne = prochaine directive.
+- `docs/` : stratégie et mémoire longue.
+- `src/`, `data/`, `tests/` : code, munitions et cibles à abattre.
+
+Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.

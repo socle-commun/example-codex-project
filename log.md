@@ -4,9 +4,6 @@
 - Dernière ligne = prochaine action.
 
 ## Historique
-- Projet initié et AGENTS ajouté.
-- AGENTS traduit en anglais.
-- Dossiers src, data, tests créés.
 - .gitignore ajouté.
 - README agressif et docs initiaux créés.
 - Référence Screeps retirée.
@@ -30,3 +27,4 @@
 - Cohérence config.yaml vérifiée.
 - Fichier docs/vitedoc/vite.config.js supprimé, scripts ViteDoc vérifiés.
 - Mode défini à prototype dans config.yaml et README documenté.
+- Fichiers exemples JS et tests supprimés; attente nouvelles instructions.

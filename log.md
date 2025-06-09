@@ -11,4 +11,11 @@
 - README agressif et docs initiaux créés.
 - Référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
-NEXT: compléter les modules src/ et définir premiers tests.
+- Modules initiaux créés dans src.
+- Tests unitaires ajoutés.
+- Configuration ViteDoc ajoutée pour la doc.
+- Tests Python retirés.
+- Modules convertis en JavaScript.
+- Vitest installé avec configuration minimale.
+- Nouveaux tests JS ajoutés.
+NEXT: rédiger la documentation détaillée.

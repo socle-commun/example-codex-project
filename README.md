@@ -13,6 +13,10 @@ Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
+## Configuration
+Le fichier `config.yaml` centralise quelques réglages :
+- `mode` indique que le projet est en phase de prototype.
+- `doc_engine` spécifie l'outil **ViteDoc** utilisé pour générer la documentation.
 
 ## Licence
 

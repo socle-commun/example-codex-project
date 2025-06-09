@@ -27,4 +27,4 @@
 - Script bootstrap supprimé, README invite à forker.
 - Cohérence config.yaml vérifiée.
 - Fichier docs/vitedoc/vite.config.js supprimé, scripts ViteDoc vérifiés.
-NEXT: vérifier build docs.
+- Mode défini à prototype dans config.yaml et README documenté.

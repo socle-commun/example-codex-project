@@ -2,7 +2,7 @@
 [![pages-build-deployment](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml)
 
 Ce dépôt sert de champ d'entraînement pour un agent IA autonome.
-Clones-le, lance l'agent, puis laisse-le évoluer.
+Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
 
 ## Mode opératoire
 - `AGENTS.md` : la loi que l'agent suit à la lettre.

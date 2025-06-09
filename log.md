@@ -19,4 +19,9 @@
 - Modules convertis en JavaScript.
 - Vitest installé avec configuration minimale.
 - Nouveaux tests JS ajoutés.
-NEXT: rédiger la documentation détaillée.
+- Badge Pages ajouté dans le README.
+- Section lien doc mise à jour.
+- Script scripts/bootstrap.sh créé.
+- Fichier config.yaml ajouté.
+- package.json corrigé avec scripts Vite et Vitest.
+NEXT: finaliser la documentation.

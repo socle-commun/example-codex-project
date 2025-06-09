@@ -9,3 +9,4 @@
 - Regle NEXT supprimee, memoire plus neutre.
 
 - Dossier site supprime, config ViteDoc deplacee dans docs, scripts ajustes.
+- TEMPLATE.md nettoye; dossier site retire de la doc.

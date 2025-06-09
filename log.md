@@ -25,5 +25,6 @@
 - Fichier config.yaml ajouté.
 - package.json corrigé avec scripts Vite et Vitest.
 - Script bootstrap supprimé, README invite à forker.
+- Cohérence config.yaml vérifiée.
+- Fichier docs/vitedoc/vite.config.js supprimé, scripts ViteDoc vérifiés.
 - Mode défini à prototype dans config.yaml et README documenté.
-NEXT: compléter la stratégie long terme.

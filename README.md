@@ -1,4 +1,5 @@
 # Template Codex Brutal
+[![pages-build-deployment](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml)
 
 Ce dépôt sert de champ d'entraînement pour un agent IA autonome.
 Clones-le, lance l'agent, puis laisse-le évoluer.
@@ -19,5 +20,4 @@ Ce projet est distribué sous licence Creative Commons BY-SA 4.0. Voir le fichie
 
 ## Consultation Web
 
-Les pages de documentation générées sont accessibles via GitHub Pages :
-<https://USERNAME.github.io/example-codex-project/>
+➡️ Accéder à la documentation : [example-codex-project on GitHub Pages](https://socle-commun.github.io/example-codex-project/)

@@ -13,3 +13,4 @@
 - Regle ajoutee : executer `npm install` puis `npm test` pour valider.
 - TEMPLATE.md nettoye; dossier site retire de la doc.
 - docsDir mis a jour pour ne compiler que le dossier docs.
+- log.md renomme en docs/__buffer.md; config et docs actualises.

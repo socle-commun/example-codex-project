@@ -7,7 +7,7 @@ Ce dépôt est volontairement vide : il ne contient que la structure minimale.
 
 ## Mode opératoire
 - `AGENTS.md` : la loi que l'agent suit à la lettre.
-- `log.md` : trace condensée des actions, dernière ligne = prochaine directive.
+- `docs/__buffer.md` : trace condensée des actions, dernière ligne = prochaine directive.
 - `docs/` : stratégie et mémoire longue.
 - `docs/knowledge-ethics.md` : principes éthiques pour garantir la fiabilité des informations.
 - `src/`, `data/`, `tests/` : code, munitions et cibles à abattre.

@@ -4,8 +4,6 @@
 - Dernière ligne = prochaine action.
 
 ## Historique
-- .gitignore ajouté.
-- README agressif et docs initiaux créés.
 - Référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
 - Licence CC BY-SA 4.0 ajoutée et README mis à jour.
@@ -28,3 +26,5 @@
 - Fichier docs/vitedoc/vite.config.js supprimé, scripts ViteDoc vérifiés.
 - Mode défini à prototype dans config.yaml et README documenté.
 - Fichiers exemples JS et tests supprimés; attente nouvelles instructions.
+- Template verrouillé, prêt pour publication et fork.
+NEXT: attendre le fork ou lancement manuel de l’agent.

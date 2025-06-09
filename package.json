@@ -12,5 +12,6 @@
   "devDependencies": {
     "vite": "latest",
     "vitest": "^1.0.0"
-  }
+  },
+  "template": true
 }

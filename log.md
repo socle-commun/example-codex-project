@@ -4,12 +4,9 @@
 - Dernière ligne = prochaine action.
 
 ## Historique
-- Projet initié et AGENTS ajouté.
-- AGENTS traduit en anglais.
-- Dossiers src, data, tests créés.
-- .gitignore ajouté.
-- README agressif et docs initiaux créés.
-- Référence Screeps retirée.
+- Projet initié, AGENTS ajouté puis traduit.
+- Dossiers src, data, tests et .gitignore créés.
+- README et docs initiaux créés, référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
 - Licence CC BY-SA 4.0 ajoutée et README mis à jour.
 - Modules initiaux créés dans src.
@@ -17,8 +14,7 @@
 - Configuration ViteDoc ajoutée pour la doc.
 - Tests Python retirés.
 - Modules convertis en JavaScript.
-- Vitest installé avec configuration minimale.
-- Nouveaux tests JS ajoutés.
+- Vitest installé et nouveaux tests JS ajoutés.
 - Badge Pages ajouté dans le README.
 - Section lien doc mise à jour.
 - Script scripts/bootstrap.sh créé.
@@ -30,3 +26,5 @@
 - Cohérence config.yaml vérifiée.
 - Fichier docs/vitedoc/vite.config.js supprimé, scripts ViteDoc vérifiés.
 - Mode défini à prototype dans config.yaml et README documenté.
+- Champ template ajouté dans package.json.
+- Prochaine étape : vérifier la documentation.

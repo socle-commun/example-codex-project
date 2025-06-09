@@ -11,4 +11,11 @@
 - README agressif et docs initiaux créés.
 - Référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
-NEXT: compléter les modules src/ et définir premiers tests.
+- Initialisation Node et package.json.
+- Dépendance dev ViteDoc ajoutée.
+- Config et index docs créés.
+- Workflow GitHub Pages déployé.
+- Section Consultation Web dans README.
+- Workflow modifié pour déployer à chaque release.
+- Commentaire "Non" pris en compte.
+NEXT: definir nouvelles taches.

@@ -1,0 +1,22 @@
+{
+  "name": "example-codex-project",
+  "version": "1.0.0",
+  "description": "Ce dépôt sert de champ d'entraînement pour un agent IA autonome. Clones-le, lance l'agent, puis laisse-le évoluer.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-docs": "vitedoc dev",
+    "build-docs": "vitedoc build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitedoc": "latest"
+  }
+}

@@ -13,6 +13,13 @@ Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
+## Installation
+
+- `npm install`
+- `npm run dev-docs` pour lancer un serveur local de documentation
+- `npm run build-docs` pour produire `site/dist`
+
+Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
 
 ## Licence
 

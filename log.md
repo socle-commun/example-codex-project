@@ -25,4 +25,5 @@
 - Fichier config.yaml ajouté.
 - package.json corrigé avec scripts Vite et Vitest.
 - Script bootstrap supprimé, README invite à forker.
-NEXT: vérifier cohérence config.yaml.
+- Mode défini à prototype dans config.yaml et README documenté.
+NEXT: compléter la stratégie long terme.

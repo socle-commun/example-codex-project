@@ -25,4 +25,5 @@
 - Fichier config.yaml ajouté.
 - package.json corrigé avec scripts Vite et Vitest.
 - Script bootstrap supprimé, README invite à forker.
+- docs/index.md étoffé avec introduction et liens.
 NEXT: vérifier cohérence config.yaml.

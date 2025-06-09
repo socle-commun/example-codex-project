@@ -38,6 +38,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 - Si un dossier est créé, structure-le.
 - Si un fichier est incohérent ou inutile, propose sa refonte ou suppression.
 - Si tu ne sais pas quoi faire : crée un `TODO.md` avec des hypothèses d'action.
+- Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
 
 ---
 

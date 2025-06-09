@@ -7,8 +7,7 @@ Ce dépôt fournit un squelette volontairement vide pour démarrer un projet d'a
 - `src/` – accueillera le code source.
 - `tests/` – contiendra les suites de tests.
 - `data/` – stockage éventuel des données d'entraînement ou de jeu d'essai.
-- `docs/` – documentation long terme et vision du projet.
-- `site/` – génération statique de la documentation.
+- `docs/` – documentation longue et generation statique.
 
 ## Démarrer
 

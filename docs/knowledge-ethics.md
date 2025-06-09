@@ -1,6 +1,6 @@
 # Knowledge Ethics
 
-This document adapts the French **"Manifeste pour l'éthique de la connaissance"** for the Screeps bot project. It outlines guiding principles to ensure that any collected data, documentation or analysis remains transparent and trustworthy.
+This document adapts the French **"Manifeste pour l'éthique de la connaissance"** for this IA template project. It outlines guiding principles to ensure that any collected data, documentation or analysis remains transparent and trustworthy.
 
 ## Ten Principles
 

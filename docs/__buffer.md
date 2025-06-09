@@ -18,3 +18,8 @@
   tentative `npm install` echouee faute de reseau.
 - Ajout d'un fichier `vitedoc.md` pour expliquer la generation de la doc.
 - Ajout de `vitedoc` dans package.json et scripts mis a jour.
+- Workflow test ajoute pour npm ci et npm test sur PR.
+- Ajout du fichier .nvmrc pour Node 20.
+- Champ engines ajoute dans package.json.
+- Ajout du fichier docs/roadmap.md avec les objectifs a court, moyen et long terme.
+- docs/index.md mis a jour pour lier vers ce nouveau roadmap.

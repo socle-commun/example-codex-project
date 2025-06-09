@@ -12,3 +12,4 @@
 - Ajout d'une batterie de tests pour la generation de la documentation.
 - Regle ajoutee : executer `npm install` puis `npm test` pour valider.
 - TEMPLATE.md nettoye; dossier site retire de la doc.
+- docsDir mis a jour pour ne compiler que le dossier docs.

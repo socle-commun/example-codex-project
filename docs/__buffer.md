@@ -17,3 +17,4 @@
 - DevDependency vite fixe a 4.4.9, CI utilise `npm ci`,
   tentative `npm install` echouee faute de reseau.
 - Ajout d'un fichier `vitedoc.md` pour expliquer la generation de la doc.
+- Ajout de `vitedoc` dans package.json et scripts mis a jour.

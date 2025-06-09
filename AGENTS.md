@@ -54,6 +54,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 - `AGENTS.md` = ton contrat.
 - `log.md` = ton journal de guerre.
 - `docs/` = la stratégie long terme.
+- `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
 - `src/` = le champ de bataille.
 - `tests/` = la vérification de tes exécutions.
 

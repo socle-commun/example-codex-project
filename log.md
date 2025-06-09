@@ -7,6 +7,9 @@
 - Projet initié, AGENTS ajouté puis traduit.
 - Dossiers src, data, tests et .gitignore créés.
 - README et docs initiaux créés, référence Screeps retirée.
+- .gitignore ajouté.
+- README agressif et docs initiaux créés.
+- Référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
 - Licence CC BY-SA 4.0 ajoutée et README mis à jour.
 - Modules initiaux créés dans src.
@@ -28,3 +31,4 @@
 - Mode défini à prototype dans config.yaml et README documenté.
 - Champ template ajouté dans package.json.
 - Prochaine étape : vérifier la documentation.
+- Fichiers exemples JS et tests supprimés; attente nouvelles instructions.

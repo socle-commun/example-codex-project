@@ -3,6 +3,7 @@
 
 Ce dépôt sert de champ d'entraînement pour un agent IA autonome.
 Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
+Ce dépôt est volontairement vide : il ne contient que la structure minimale.
 
 ## Mode opératoire
 - `AGENTS.md` : la loi que l'agent suit à la lettre.
@@ -13,6 +14,11 @@ Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
+## Structure du Template
+
+Le dépôt sert uniquement de squelette. Consultez [TEMPLATE.md](TEMPLATE.md) pour
+la description des dossiers et la marche à suivre.
+
 ## Installation
 
 - `npm install`
@@ -20,6 +26,8 @@ Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 - `npm run build-docs` pour produire `dist/`
 
 Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
+Aucun script de démonstration n'est fourni : rien ne s'exécute tant que l'agent
+n'entre pas en action.
 
 ## Configuration
 Le fichier `config.yaml` centralise quelques réglages :

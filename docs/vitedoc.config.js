@@ -1,4 +1,4 @@
 module.exports = {
-  docsDir: '../docs',
+  docsDir: '.',
   include: ['**/*.md'],
 };

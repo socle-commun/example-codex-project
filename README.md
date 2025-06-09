@@ -17,7 +17,7 @@ Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
 - `npm install`
 - `npm run dev-docs` pour lancer un serveur local de documentation
-- `npm run build-docs` pour produire `site/dist`
+- `npm run build-docs` pour produire `dist/`
 
 Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
 

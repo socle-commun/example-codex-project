@@ -4,3 +4,4 @@
 2025-06-09 15:38:00 UTC | Added .gitignore to track ignored files. status: ok
 2025-06-09 15:39:50 UTC | README agressif, log restructuré, TODO.md et docs/init.md créés. status: ok
 NEXT: compléter les modules `src/` et définir premiers tests.
+2025-06-09 15:48:25 UTC | Added knowledge ethics references in README and AGENTS. status: ok

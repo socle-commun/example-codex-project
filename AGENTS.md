@@ -14,7 +14,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 /               # Racine
 ├── AGENTS.md   # Ce fichier, ton manuel d'ordre
 ├── README.md   # Rendu automatique si vide
-├── log.md      # Mémoire active (30 lignes max)
+├── docs/__buffer.md      # Mémoire active (30 lignes max)
 ├── docs/       # Mémoire long terme (vision, specs, design)
 ├── src/        # Code source (modules, outils, exécutables)
 ├── data/       # Données d'entrée ou d'apprentissage
@@ -27,7 +27,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 1. **Initier** la structure du projet si absente (minimale mais propre).
 2. **Observer** toute modification et proposer des réorganisations si utile.
-3. **Documenter** automatiquement dans `log.md` tout changement significatif.
+3. **Documenter** automatiquement dans `docs/__buffer.md` tout changement significatif.
 4. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
 
 ---
@@ -45,7 +45,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 ## 🚫 Restrictions strictes
 
 - Ne modifie pas plus de **300 lignes par fichier**.
-- Ne touche jamais à un fichier inconnu **sans le documenter** dans `log.md`.
+- Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/__buffer.md`.
 - Si ça pue le hack non sûr : **bloque et génère `WARNING.md`**.
 
 ---
@@ -53,7 +53,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 ## 🧬 Références internes
 
 - `AGENTS.md` = ton contrat.
-- `log.md` = mémoire active de l'agent.
+- `docs/__buffer.md` = mémoire active de l'agent.
 - Il contient une section **Mémoire Active** de 30 lignes maximum, sans horodatage.
 - Chaque ligne résume une action ou un état.
 - Une section *Règles Temporaires* en tête de fichier rappelle les consignes.

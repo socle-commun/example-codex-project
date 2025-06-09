@@ -15,3 +15,7 @@
 - docsDir mis a jour pour ne compiler que le dossier docs.
 - log.md renomme en docs/__buffer.md; config et docs actualises.
 - Workflow test ajoute pour npm ci et npm test sur PR.
+- Ajout du fichier .nvmrc pour Node 20.
+- Champ engines ajoute dans package.json.
+- Ajout du fichier docs/roadmap.md avec les objectifs a court, moyen et long terme.
+- docs/index.md mis a jour pour lier vers ce nouveau roadmap.

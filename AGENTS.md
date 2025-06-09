@@ -14,7 +14,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 /               # Racine
 ├── AGENTS.md   # Ce fichier, ton manuel d'ordre
 ├── README.md   # Rendu automatique si vide
-├── log.md      # Historique des actions récentes (30 lignes max)
+├── log.md      # Mémoire active (30 lignes max)
 ├── docs/       # Mémoire long terme (vision, specs, design)
 ├── src/        # Code source (modules, outils, exécutables)
 ├── data/       # Données d'entrée ou d'apprentissage
@@ -52,10 +52,10 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 ## 🧬 Références internes
 
 - `AGENTS.md` = ton contrat.
-- `log.md` = ton journal de guerre.
-- Ce fichier tient en **30 lignes max** et n'utilise plus d'horodatage.
-- Chaque ligne résume l'action réalisée; la dernière indique la prochaine.
-- Une section *Règles Temporaires* en tête de fichier liste les consignes court terme.
+- `log.md` = mémoire active de l'agent.
+- Il contient une section **Mémoire Active** de 30 lignes maximum, sans horodatage.
+- Chaque ligne résume une action ou un état.
+- Une section *Règles Temporaires* en tête de fichier rappelle les consignes.
 - `docs/` = la stratégie long terme.
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
 - `src/` = le champ de bataille.

@@ -21,6 +21,11 @@ Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
 Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
 
+## Configuration
+Le fichier `config.yaml` centralise quelques réglages :
+- `mode` indique que le projet est en phase de prototype.
+- `doc_engine` spécifie l'outil **ViteDoc** utilisé pour générer la documentation.
+
 ## Licence
 
 Ce projet est distribué sous licence Creative Commons BY-SA 4.0. Voir le fichier [LICENSE](LICENSE) pour le texte complet.

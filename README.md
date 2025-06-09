@@ -11,3 +11,8 @@ Clones-le, lance l'agent, puis laisse-le évoluer.
 - `src/`, `data/`, `tests/` : code, munitions et cibles à abattre.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
+
+## Consultation Web
+
+Les pages de documentation générées sont accessibles via GitHub Pages :
+<https://USERNAME.github.io/example-codex-project/>

@@ -14,3 +14,6 @@
 - TEMPLATE.md nettoye; dossier site retire de la doc.
 - docsDir mis a jour pour ne compiler que le dossier docs.
 - log.md renomme en docs/__buffer.md; config et docs actualises.
+- DevDependency vite fixe a 4.4.9, CI utilise `npm ci`,
+  tentative `npm install` echouee faute de reseau.
+- Ajout d'un fichier `vitedoc.md` pour expliquer la generation de la doc.

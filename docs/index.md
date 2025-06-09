@@ -5,5 +5,6 @@ du projet et les règles que l'agent doit suivre.
 
 - [Init du Template](./init.md)
 - [Knowledge Ethics](./knowledge-ethics.md)
+- [ViteDoc](./vitedoc.md)
 
 Le site GitHub Pages du projet affiche cette page d'accueil.

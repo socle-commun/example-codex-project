@@ -10,7 +10,7 @@
     "test:e2e": "vitest run tests"
   },
   "devDependencies": {
-    "vite": "latest",
+    "vite": "4.4.9",
     "vitest": "^1.0.0"
   },
   "template": true

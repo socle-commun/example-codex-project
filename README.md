@@ -12,6 +12,11 @@ Clones-le, lance l'agent, puis laisse-le évoluer.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
+
+## Licence
+
+Ce projet est distribué sous licence Creative Commons BY-SA 4.0. Voir le fichier [LICENSE](LICENSE) pour le texte complet.
+
 ## Consultation Web
 
 Les pages de documentation générées sont accessibles via GitHub Pages :

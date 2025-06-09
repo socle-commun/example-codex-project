@@ -11,6 +11,7 @@
 - README agressif et docs initiaux créés.
 - Référence Screeps retirée.
 - Références éthiques ajoutées dans README et AGENTS.
+- Licence CC BY-SA 4.0 ajoutée et README mis à jour.
 - Modules initiaux créés dans src.
 - Tests unitaires ajoutés.
 - Configuration ViteDoc ajoutée pour la doc.

@@ -14,6 +14,10 @@
 - TEMPLATE.md nettoye; dossier site retire de la doc.
 - docsDir mis a jour pour ne compiler que le dossier docs.
 - log.md renomme en docs/__buffer.md; config et docs actualises.
+- DevDependency vite fixe a 4.4.9, CI utilise `npm ci`,
+  tentative `npm install` echouee faute de reseau.
+- Ajout d'un fichier `vitedoc.md` pour expliquer la generation de la doc.
+- Ajout de `vitedoc` dans package.json et scripts mis a jour.
 - Workflow test ajoute pour npm ci et npm test sur PR.
 - Ajout du fichier .nvmrc pour Node 20.
 - Champ engines ajoute dans package.json.

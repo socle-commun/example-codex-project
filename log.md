@@ -24,4 +24,5 @@
 - Script scripts/bootstrap.sh créé.
 - Fichier config.yaml ajouté.
 - package.json corrigé avec scripts Vite et Vitest.
-NEXT: finaliser la documentation.
+- Script bootstrap supprimé, README invite à forker.
+NEXT: vérifier cohérence config.yaml.

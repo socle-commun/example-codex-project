@@ -53,6 +53,9 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 - `AGENTS.md` = ton contrat.
 - `log.md` = ton journal de guerre.
+- Ce fichier tient en **30 lignes max** et n'utilise plus d'horodatage.
+- Chaque ligne résume l'action réalisée; la dernière indique la prochaine.
+- Une section *Règles Temporaires* en tête de fichier liste les consignes court terme.
 - `docs/` = la stratégie long terme.
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
 - `src/` = le champ de bataille.

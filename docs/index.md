@@ -1,10 +1,9 @@
 # Welcome
 
-Bienvenue sur la documentation du template Codex Brutal. Ce guide rassemble la vision
-du projet et les règles que l'agent doit suivre.
+This documentation provides the vision for the Codex Brutal template and the rules the agent must follow.
 
 - [Knowledge Ethics](./knowledge-ethics.md)
 - [VitePress](./vitepress.md)
 - [Roadmap](./roadmap.md)
 
-Le site GitHub Pages du projet affiche cette page d'accueil.
+The GitHub Pages site displays this page as the home page.

@@ -1,18 +1,18 @@
-# Template IA Minimaliste
+# Minimalist AI Template
 
-Ce dépôt fournit un squelette volontairement vide pour démarrer un projet d'agent IA autonome. Il ne contient aucun code applicatif mais propose une organisation de base.
+This repository provides an intentionally empty skeleton to start an autonomous AI agent project. It contains no application code but offers a basic organization.
 
-## Dossiers principaux
+## Main folders
 
-- `src/` – accueillera le code source.
-- `tests/` – contiendra les suites de tests.
-- `data/` – stockage éventuel des données d'entraînement ou de jeu d'essai.
-- `docs/` – documentation longue et generation statique.
+- `src/` – where the source code will live.
+- `tests/` – where test suites reside.
+- `data/` – optional storage for training or sample data sets.
+- `docs/` – long-form documentation and static site generation.
 
-## Démarrer
+## Getting started
 
-1. Forkez ce dépôt sur GitHub ou clonez-le localement.
-2. Ajoutez votre code dans `src/` et vos tests dans `tests/`.
-3. Installez les dépendances avec `npm install` puis faites vivre l'agent.
+1. Fork this repository on GitHub or clone it locally.
+2. Add your code in `src/` and your tests in `tests/`.
+3. Install dependencies with `npm install` and let the agent run.
 
-Ce template est prêt à évoluer dès que l'agent entre en action.
+This template is ready to evolve as soon as the agent starts acting.

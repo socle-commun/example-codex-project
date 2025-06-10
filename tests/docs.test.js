@@ -31,9 +31,9 @@ describe('Documentation build', () => {
   });
 });
 
-describe('__buffer.md', () => {
-  it('__buffer.md should not exceed 30 non-comment lines', () => {
-    const content = readFileSync('docs/__buffer.md', 'utf8');
+describe('buffer.md', () => {
+  it('buffer.md should not exceed 30 non-comment lines', () => {
+    const content = readFileSync('docs/buffer.md', 'utf8');
     const lines = content.split('\n').filter(l => l.trim() !== '' && !l.startsWith('#'));
     expect(lines.length).toBeLessThanOrEqual(30);
   });

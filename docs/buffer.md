@@ -1,6 +1,7 @@
 # Utilisation du buffer
+- Project is blank. Ask the user to understand project objective and personalize it.
 
-Le fichier `docs/__buffer.md` sert de **mémoire active** pour l'agent. Il ne doit pas devenir un journal de bord.
+Le fichier `docs/buffer.md` sert de **mémoire active** pour l'agent. Il ne doit pas devenir un journal de bord.
 
 ## Règles principales
 - Limiter le contenu à 30 lignes (hors commentaires).
@@ -17,6 +18,6 @@ Le fichier `docs/__buffer.md` sert de **mémoire active** pour l'agent. Il ne do
 
 Conservez uniquement ces notes éphémères qui orientent l'étape à venir.
 
-Régulièrement, nettoyer ce fichier et soit:
-- Antériner les règles dans une documentation dédiée
-- Supprimer la règle
+Régulièrement, nettoyez ce fichier et soit :
+- Antérinez les règles dans une documentation dédiée
+- Supprimez la règle obsolète.

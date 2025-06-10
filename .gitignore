@@ -51,3 +51,6 @@ node_modules/
 
 # VitePress build output
 cache/
+
+# Test coverage
+coverage/

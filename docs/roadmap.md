@@ -1,15 +1,15 @@
 # Roadmap
 
-Ce document trace les grandes etapes prevues pour faire evoluer le template.
+This document tracks the main steps planned to evolve the template.
 
-## Objectifs a court terme
-- Finaliser la documentation de base et verifier les tests existants.
-- Mettre en place les premieres fonctionnalites de demonstration.
+## Short-term goals
+- Finalize basic documentation and verify existing tests.
+- Introduce initial demonstration features.
 
-## Objectifs a moyen terme
-- Ajouter des modules pour automatiser la generation de contenu.
-- Integrer des jeux de donnees simples afin de tester des outils d'analyse.
+## Mid-term goals
+- Add modules to automate content generation.
+- Integrate simple datasets to test analysis tools.
 
-## Objectifs a long terme
-- Transformer ce prototype en plateforme complete utilisable par divers agents IA.
-- Etendre la couverture de tests et la documentation pour faciliter les contributions externes.
+## Long-term goals
+- Turn this prototype into a full platform usable by various AI agents.
+- Extend test coverage and documentation to ease external contributions.

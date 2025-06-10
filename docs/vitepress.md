@@ -1,11 +1,10 @@
-
 # ViteDoc
 
-Ce projet utilise **ViteDoc** pour generer la documentation statique.
+This project uses **ViteDoc** to generate static documentation.
 
-## Commandes
-- `npm run dev-docs` — lance un serveur local avec rechargement automatique.
-- `npm run build-docs` — genere le site dans `dist/`.
+## Commands
+- `npm run dev-docs` — start a local server with auto reload.
+- `npm run build-docs` — generate the site in `dist/`.
 
 ## Installation
 
@@ -13,8 +12,8 @@ Ce projet utilise **ViteDoc** pour generer la documentation statique.
 npm install vitedoc --save-dev
 ```
 
-## Fonctionnalites principales
+## Key features
 
-- Support Markdown et apercu interactif de composants
+- Markdown support and live component preview
 - HMR via Vite
-- Generation de site statique personnalise
+- Customizable static site generation

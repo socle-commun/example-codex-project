@@ -1,56 +1,45 @@
-# Template Codex Brutal
+# Codex Brutal Template
 [![pages-build-deployment](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml)
 
-Ce dépôt sert de champ d'entraînement pour un agent IA autonome.
-Forke-le sur GitHub (ou clones-le), lance l'agent, puis laisse-le evoluer.
-Ce dépôt est volontairement vide : il ne contient que la structure minimale.
+This repository is a playground for an autonomous AI agent. Fork it or clone it, start the agent and let it evolve. The project intentionally contains only the minimal skeleton.
 
-## Mode opératoire
-- `AGENTS.md` : la loi que l'agent suit à la lettre.
-- `docs/__buffer.md` : trace condensée des actions, dernière ligne = prochaine directive.
-- `docs/` : stratégie et mémoire longue.
-- `docs/knowledge-ethics.md` : principes éthiques pour garantir la fiabilité des informations.
-- `src/`, `tests/` : code et cibles à abattre.
+## How it works
+- `AGENTS.md` – the rules the agent must follow.
+- `docs/__buffer.md` – short trace of actions, last line = next directive.
+- `docs/` – long term strategy and notes.
+- `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
+- `src/`, `tests/` – code and targets to defeat.
 
-Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
+Everything is lightweight and ready to expand once the agent wakes up.
 
-## Structure du Template
-
-Le dépôt sert uniquement de squelette. Consultez [TEMPLATE.md](TEMPLATE.md) pour
-la description des dossiers et la marche à suivre.
+## Template Structure
+This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions and usage instructions.
 
 ## Installation
-
 - `npm install`
-- `npm run docs:dev` pour lancer un serveur local de documentation
-- `npm run docs:build` pour produire `dist/`
+- `npm run docs:dev` to launch the documentation server
+- `npm run docs:build` to generate `dist/`
 
-Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
-Aucun script de démonstration n'est fourni : rien ne s'exécute tant que l'agent
-n'entre pas en action.
+Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
 
 ## Configuration
-Le fichier `config.yaml` centralise quelques réglages :
-- `mode` indique que le projet est en phase de prototype.
-- `doc_engine` spécifie l'outil **VitePress** utilisé pour générer la documentation.
+Settings are centralized in `config.yaml`:
+- `mode` indicates the prototype stage.
+- `doc_engine` specifies the **VitePress** documentation generator.
 
-## Utilisation avec ChatGPT ou Codex
+## Working with ChatGPT or Codex
+This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or another autonomous agent).
 
-Ce projet est conçu pour être manipulé directement par une IA de type **Codex** (comme ChatGPT, ou un agent externe autonome).
+### Interaction Flow
+1. Read `AGENTS.md` to understand the behaviour rules.
+2. Check the last line of `docs/__buffer.md` for the next directive.
+3. Propose or apply changes in `src/`, `docs/`, etc.
+4. Document actions in `docs/__buffer.md` (maximum 30 lines).
+5. Use `docs/roadmap.md` to plan future evolution.
+6. Run `npm test` if significant changes are made.
 
-### Mode d'interaction :
+## License
+This project is distributed under the Creative Commons BY-SA 4.0 license. See [LICENSE](LICENSE) for details.
 
-1. Lire `AGENTS.md` pour comprendre les règles de comportement.
-2. Lire la dernière ligne de `docs/__buffer.md` pour exécuter une directive.
-3. Proposer ou effectuer les changements nécessaires dans `src/`, `docs/`, etc.
-4. Documenter les actions dans `docs/__buffer.md` (30 lignes max).
-5. Utiliser `docs/roadmap.md` pour planifier l'évolution.
-6. Lancer `npm test` si des changements importants sont faits.
-
-## Licence
-
-Ce projet est distribué sous licence Creative Commons BY-SA 4.0. Voir le fichier [LICENSE](LICENSE) pour le texte complet.
-
-## Consultation Web
-
-➡️ Accéder à la documentation : [example-codex-project on GitHub Pages](https://socle-commun.github.io/example-codex-project/)
+## Web View
+➡️ Access the documentation: [example-codex-project on GitHub Pages](https://socle-commun.github.io/example-codex-project/)

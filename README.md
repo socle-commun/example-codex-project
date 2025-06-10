@@ -12,6 +12,11 @@ This repository is a playground for an autonomous AI agent. Fork it or clone it,
 
 Everything is lightweight and ready to expand once the agent wakes up.
 
+## Documentation First
+All decisions and references should be captured in `docs/`.
+Keep the documents short, readable and update them as the code evolves.
+Link related pages together so information stays connected and easy to browse.
+
 ## Template Structure
 This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions and usage instructions.
 

@@ -1,3 +1,5 @@
 # Project Documentation
 
-Use this folder to store long-term documentation and notes.
+This folder stores the project's long-term memory.
+Keep pages concise and update them whenever the code changes.
+Link documents to each other so topics remain easy to explore.

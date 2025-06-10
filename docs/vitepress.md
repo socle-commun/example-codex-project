@@ -17,3 +17,5 @@ npm install vitepress --save-dev
 - Markdown support and live component preview
 - HMR via Vite
 - Customizable static site generation
+
+Refer to the [VitePress docs](https://vitepress.vuejs.org/) for advanced setup options.

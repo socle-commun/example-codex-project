@@ -16,3 +16,4 @@ This document adapts the French **"Manifeste pour l'éthique de la connaissance"
 10. **Commitment to improvement** – Practices evolve continually to uphold these ethical standards.
 
 By following these guidelines, the project promotes an environment where code, data and ideas can be trusted and built upon by the community.
+Return to this list whenever documentation is revised so improvements remain aligned with these principles.

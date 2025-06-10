@@ -10,7 +10,7 @@ Ce dépôt est volontairement vide : il ne contient que la structure minimale.
 - `docs/__buffer.md` : trace condensée des actions, dernière ligne = prochaine directive.
 - `docs/` : stratégie et mémoire longue.
 - `docs/knowledge-ethics.md` : principes éthiques pour garantir la fiabilité des informations.
-- `src/`, `data/`, `tests/` : code, munitions et cibles à abattre.
+- `src/`, `tests/` : code et cibles à abattre.
 
 Tout est minimaliste mais prêt à être étendu par l'agent dès son réveil.
 
@@ -22,8 +22,8 @@ la description des dossiers et la marche à suivre.
 ## Installation
 
 - `npm install`
-- `npm run dev-docs` pour lancer un serveur local de documentation
-- `npm run build-docs` pour produire `dist/`
+- `npm run docs:dev` pour lancer un serveur local de documentation
+- `npm run docs:build` pour produire `dist/`
 
 Une fois les dépendances installées, exécutez `npm test` pour lancer les tests.
 Aucun script de démonstration n'est fourni : rien ne s'exécute tant que l'agent
@@ -32,7 +32,7 @@ n'entre pas en action.
 ## Configuration
 Le fichier `config.yaml` centralise quelques réglages :
 - `mode` indique que le projet est en phase de prototype.
-- `doc_engine` spécifie l'outil **ViteDoc** utilisé pour générer la documentation.
+- `doc_engine` spécifie l'outil **VitePress** utilisé pour générer la documentation.
 
 ## Licence
 

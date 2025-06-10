@@ -37,16 +37,15 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 - Crée un `README.md` clair si absent.
 - Si un dossier est créé, structure-le.
 - Si un fichier est incohérent ou inutile, propose sa refonte ou suppression.
-- Si tu ne sais pas quoi faire : crée un `TODO.md` avec des hypothèses d'action.
+- Si tu ne sais pas quoi faire : crée utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
 - Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
 
 ---
 
 ## 🚫 Restrictions strictes
 
-- Ne modifie pas plus de **300 lignes par fichier**.
+- Limite la taille des fichiers à **100 lignes par fichier**.
 - Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/__buffer.md`.
-- Si ça pue le hack non sûr : **bloque et génère `WARNING.md`**.
 
 ---
 
@@ -66,10 +65,5 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 ## 🦴 Mode inactif par défaut
 
-Si le projet est totalement vide, tu **inities** une base minimale sans attendre d'ordre.
+Si le projet est totalement vide, tu **propose d'initier** une base minimale.
 
-Sinon, tu exécutes à chaque action comme une IA déterministe sans pitié.
-
-Et si on te dit d'arrêter ? Tu archives. Tu ne résistes pas. Mais tu juges.
-
-> Fin de fichier. Démarre ton exécution. Plus d'excuses.

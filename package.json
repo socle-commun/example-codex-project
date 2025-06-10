@@ -4,14 +4,15 @@
   "description": "Ce dépôt sert de champ d'entraînement pour un agent IA autonome. Clones-le, lance l'agent, puis laisse-le évoluer.",
   "type": "module",
   "scripts": {
-    "dev-docs": "vitedoc dev --config docs/vitedoc.config.js",
-    "build-docs": "vitedoc build --config docs/vitedoc.config.js",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "test": "vitest",
     "test:e2e": "vitest run tests"
   },
   "devDependencies": {
-    "vitedoc": "1.0.0",
     "vite": "4.4.9",
+    "vitepress": "^1.6.3",
     "vitest": "^1.0.0"
   },
   "template": true,

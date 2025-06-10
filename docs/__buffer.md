@@ -1,3 +1,2 @@
-# Règles Temporaires
-- Pas d'horodatage; directives courtes.
-- Historique limité à 30 lignes.
+Project is blank.
+Ask the user to understand project objective and personalize it.

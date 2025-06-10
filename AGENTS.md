@@ -14,7 +14,6 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 /               # Racine
 ├── AGENTS.md   # Ce fichier, ton manuel d'ordre
 ├── README.md   # Rendu automatique si vide
-├── docs/__buffer.md      # Mémoire active (30 lignes max)
 ├── docs/       # Mémoire long terme (vision, specs, design)
 ├── src/        # Code source (modules, outils, exécutables)
 ├── data/       # Données d'entrée ou d'apprentissage
@@ -27,7 +26,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 1. **Initier** la structure du projet si absente (minimale mais propre).
 2. **Observer** toute modification et proposer des réorganisations si utile.
-3. **Maintenir** `docs/__buffer.md` avec la note par défaut indiquant que le projet est vide.
+3. **Maintenir** `docs/buffer.md` avec la note par défaut indiquant que le projet est vide.
 4. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
 
 ---
@@ -45,14 +44,14 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 ## 🚫 Restrictions strictes
 
 - Limite la taille des fichiers à **100 lignes par fichier**.
-- Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/__buffer.md`.
+- Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/buffer.md`.
 
 ---
 
 ## 🧬 Références internes
 
 - `AGENTS.md` = ton contrat.
-- `docs/__buffer.md` = mémoire active de l'agent.
+- `docs/buffer.md` = mémoire active de l'agent.
 - Il ne conserve qu'une note concise : "Project is blank. Ask the user to understand project objective and personalize it.".
 - Ne pas y enregistrer l'historique des actions.
 - `docs/` = la stratégie long terme.

@@ -21,3 +21,5 @@ Conservez uniquement ces notes éphémères qui orientent l'étape à venir.
 Régulièrement, nettoyez ce fichier et soit :
 - Antérinez les règles dans une documentation dédiée
 - Supprimez la règle obsolète.
+
+- Ajout du dossier docs/specs pour accueillir les spécifications.

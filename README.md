@@ -20,11 +20,14 @@ Link related pages together so information stays connected and easy to browse.
 This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions and usage instructions.
 
 ## Installation
+This project requires **Node.js 20 or newer**.
+Use the `.nvmrc` file to switch versions if you manage Node with `nvm`.
+
 - `npm install`
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
 
-Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
+Once dependencies are installed, run `npm test` to execute the tests. Nothing happens automatically until the agent acts.
 
 ## Configuration
 Adjust environment variables or package scripts directly when customizing the

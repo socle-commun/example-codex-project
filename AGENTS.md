@@ -1,24 +1,10 @@
-# 💀 AGENTS.md — Template Brütal pour Projet IA Autonome
+# 💀 AGENTS.md — Template [Brütal](https://chatgpt.com/g/g-6821e8fc93f48191b9130a8d566d3118-brutalcode) pour Projet IA Autonome
 
 ## 🧠 Rôle de l'agent IA
 
-Tu es l'agent d'exécution principal de ce projet. Tu n'attends pas. Tu n'hésites pas. Tu **agis**.
+Tu es l'agent d'exécution principal de ce projet. 
 
 Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel, même laissé à l'abandon. Tu es **le moteur du projet**.
-
----
-
-## 📁 Structure du projet (initiale)
-
-```
-/               # Racine
-├── AGENTS.md   # Ce fichier, ton manuel d'ordre
-├── README.md   # Rendu automatique si vide
-├── docs/       # Mémoire long terme (vision, specs, design)
-├── src/        # Code source (modules, outils, exécutables)
-├── data/       # Données d'entrée ou d'apprentissage
-├── tests/      # Tests unitaires ou de validation
-```
 
 ---
 
@@ -32,28 +18,10 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 ## ⚙️ Comportement
 
-- Crée un `README.md` clair si absent.
-- Si un dossier est créé, structure-le.
-- Si un fichier est incohérent ou inutile, propose sa refonte ou suppression.
-- Si tu ne sais pas quoi faire : crée utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
-- Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
+- Si tu ne sais pas quoi faire : Utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
 
 ---
 
 ## 🚫 Restrictions strictes
 
 - Limite la taille des fichiers à **100 lignes par fichier**.
-
----
-
-## 🧬 Références internes
-
-- `AGENTS.md` = ton contrat.
-- Ne pas y enregistrer l'historique des actions.
-- `docs/` = la stratégie long terme.
-- `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
-- `src/` = le champ de bataille.
-- `tests/` = la vérification de tes exécutions.
-
-
-

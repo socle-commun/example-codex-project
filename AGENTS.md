@@ -26,23 +26,7 @@ Goal: ensure this repo can evolve from prototype to functional system, even if l
 <emoji> (#issue-id) concise message
 ```
 
-| Emoji | Usage                     |
-| ----- | ------------------------- |
-| ✨     | New feature               |
-| 🐛    | Bugfix                    |
-| ♻️    | Refactor or cleanup       |
-| 🔥    | Code removal              |
-| ✅     | Test addition             |
-| 🚨    | Build/lint fix            |
-| 📝    | Documentation             |
-| 💄    | Cosmetic change           |
-| 🎨    | Code formatting           |
-| 🚀    | Performance or deployment |
-| 🔧    | Config/tooling            |
-| ➕     | Dependency addition       |
-| ➖     | Dependency removal        |
-
----
+Follow [gitmoji](https://gitmoji.dev/) guidelines.
 
 ## 🚫 Strict Restrictions
 

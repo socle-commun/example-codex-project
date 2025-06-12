@@ -54,7 +54,6 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
 - `src/` = le champ de bataille.
 - `tests/` = la vérification de tes exécutions.
-- `config.yaml` Contiens les informations génériques du projet (comme la langue ou le type de projet). Utilise le comme mémoire permettant de comprendre le contexte projet rapidement.
 
 
 

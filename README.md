@@ -25,6 +25,7 @@ This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for fol
 - `npm run docs:build` to generate `dist/`
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
+Test coverage reports are stored as a GitHub Actions artifact on pull requests.
 
 ## Configuration
 Adjust environment variables or package scripts directly when customizing the

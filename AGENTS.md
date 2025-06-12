@@ -26,8 +26,7 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 
 1. **Initier** la structure du projet si absente (minimale mais propre).
 2. **Observer** toute modification et proposer des réorganisations si utile.
-3. **Maintenir** `docs/buffer.md` avec la note par défaut indiquant que le projet est vide.
-4. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
+3. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
 
 ---
 
@@ -44,15 +43,12 @@ Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel,
 ## 🚫 Restrictions strictes
 
 - Limite la taille des fichiers à **100 lignes par fichier**.
-- Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/buffer.md`.
 
 ---
 
 ## 🧬 Références internes
 
 - `AGENTS.md` = ton contrat.
-- `docs/buffer.md` = mémoire active de l'agent.
-- Il ne conserve qu'une note concise : "Project is blank. Ask the user to understand project objective and personalize it.".
 - Ne pas y enregistrer l'historique des actions.
 - `docs/` = la stratégie long terme.
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.

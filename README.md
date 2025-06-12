@@ -5,7 +5,6 @@ This repository is a playground for an autonomous AI agent. Fork it or clone it,
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
-- `docs/buffer.md` – default note about the project being blank.
 - `docs/` – long term strategy and notes.
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
 - `src/`, `tests/` – code and targets to defeat.
@@ -36,11 +35,9 @@ This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or
 
 ### Interaction Flow
 1. Read `AGENTS.md` to understand the behaviour rules.
-2. Check `docs/buffer.md` for the default note.
-3. Propose or apply changes in `src/`, `docs/`, etc.
-4. No log is kept in `docs/buffer.md`.
-5. Use `docs/roadmap.md` to plan future evolution.
-6. Run `npm test` if significant changes are made.
+2. Propose or apply changes in `src/`, `docs/`, etc.
+3. Use `docs/roadmap.md` to plan future evolution.
+4. Run `npm test` if significant changes are made.
 
 ## License
 This project is distributed under the Creative Commons BY-SA 4.0 license. See [LICENSE](LICENSE) for details.

@@ -28,7 +28,8 @@ Use the `.nvmrc` file to switch versions if you manage Node with `nvm`.
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
 
-Once dependencies are installed, run `npm test` to execute the tests. 
+Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
+Test coverage reports are stored as a GitHub Actions artifact on pull requests.
 
 ## Configuration
 

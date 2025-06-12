@@ -28,9 +28,8 @@ This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for fol
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
 
 ## Configuration
-Settings are centralized in `config.yaml`:
-- `mode` indicates the prototype stage.
-- `doc_engine` specifies the **VitePress** documentation generator.
+Adjust environment variables or package scripts directly when customizing the
+project.
 
 ## Working with ChatGPT or Codex
 This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or another autonomous agent).

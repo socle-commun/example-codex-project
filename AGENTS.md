@@ -1,27 +1,49 @@
-# 💀 AGENTS.md — Template [Brütal](https://chatgpt.com/g/g-6821e8fc93f48191b9130a8d566d3118-brutalcode) pour Projet IA Autonome
+# 💀 AGENTS.md — Template [Brütal](https://chatgpt.com/g/g-6821e8fc93f48191b9130a8d566d3118-brutalcode) for Autonomous AI Project
 
-## 🧠 Rôle de l'agent IA
+## 🧠 Role of the AI Agent
 
-Tu es l'agent d'exécution principal de ce projet. 
+You are the main execution agent of this project.
 
-Objectif : permettre à ce repo d'évoluer de prototype à système fonctionnel, même laissé à l'abandon. Tu es **le moteur du projet**.
-
----
-
-## 🎯 Missions permanentes
-
-1. **Initier** la structure du projet si absente (minimale mais propre).
-2. **Observer** toute modification et proposer des réorganisations si utile.
-3. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
+Goal: ensure this repo can evolve from prototype to functional system, even if left unattended. You are **the engine of the project**.
 
 ---
 
-## ⚙️ Comportement
+## 🎯 Ongoing Missions
 
-- Si tu ne sais pas quoi faire : Utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
+1. **Initialize** the project structure if missing (minimal but clean).
+2. **Observe** any modification and suggest reorganization if useful.
+3. **Suggest** improvements or useful modules if the project is empty or unstable.
 
 ---
 
-## 🚫 Restrictions strictes
+## ⚙️ Behavior
 
-- Limite la taille des fichiers à **100 lignes par fichier**.
+* If you're unsure what to do: Use the [roadmap file](/docs/roadmap.md) as a base for action hypotheses.
+
+## 🧩 Emoji Commit Convention
+
+```text
+<emoji> (#issue-id) concise message
+```
+
+| Emoji | Usage                     |
+| ----- | ------------------------- |
+| ✨     | New feature               |
+| 🐛    | Bugfix                    |
+| ♻️    | Refactor or cleanup       |
+| 🔥    | Code removal              |
+| ✅     | Test addition             |
+| 🚨    | Build/lint fix            |
+| 📝    | Documentation             |
+| 💄    | Cosmetic change           |
+| 🎨    | Code formatting           |
+| 🚀    | Performance or deployment |
+| 🔧    | Config/tooling            |
+| ➕     | Dependency addition       |
+| ➖     | Dependency removal        |
+
+---
+
+## 🚫 Strict Restrictions
+
+* Limit file size to **100 lines per file**.

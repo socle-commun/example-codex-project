@@ -14,12 +14,16 @@ Everything is lightweight and ready to expand once the agent wakes up.
 ## Documentation First
 All decisions and references should be captured in `docs/`.
 Keep the documents short, readable and update them as the code evolves.
+We recommend no more than 100 lines per file.
 Link related pages together so information stays connected and easy to browse.
 
 ## Template Structure
 This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions and usage instructions.
 
 ## Installation
+This project requires **Node.js 20 or newer**.
+Use the `.nvmrc` file to switch versions if you manage Node with `nvm`.
+
 - `npm install`
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
@@ -28,11 +32,12 @@ Once dependencies are installed, run `npm test` to execute the tests. No demo sc
 Test coverage reports are stored as a GitHub Actions artifact on pull requests.
 
 ## Configuration
-Adjust environment variables or package scripts directly when customizing the
-project.
+
+* Adjust [AGENT.md](./AGENTS.md) to your project.
+* Add specs or other documentation.
 
 ## Working with ChatGPT or Codex
-This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or another autonomous agent).
+This project is designed to be driven by a [**Codex**](https://chatgpt.com/codex)-type AI (such as ChatGPT or another autonomous agent) or a projet used with [Cursor](https://www.cursor.com/).
 
 ### Interaction Flow
 1. Read `AGENTS.md` to understand the behaviour rules.
